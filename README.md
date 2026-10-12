@@ -48,11 +48,11 @@
 
 | Project | Description | Link |
 | --- | --- | --- |
-| OmniPotent | AI copilot for DevOps workflows and automation. | [Repo](https://github.com/ankitbuilds99/OmniPotent) |
-| Portfolio | Personal developer portfolio and project showcase. | [Repo](https://github.com/ankitbuilds99/Portfolio) |
-| About-me | Personal web profile and introduction. | [Repo](https://github.com/ankitbuilds99/About-me) |
-| JavaScript Learning | Practical JavaScript learning and experiments. | [Repo](https://github.com/ankitbuilds99/java-script.js) |
-| Ferris Wheel | CSS and frontend practice project. | [Repo](https://github.com/ankitbuilds99/ferris-wheel) |
+| Self-Improving Multi-Agent RAG System | Self-improving multi-agent retrieval and generation system. | [Repo](https://github.com/ankitbuilds99/Self-Improving-Multi-Agent-RAG-System) |
+| EraserOPS | Agentic operations and incident-management tooling. | [Repo](https://github.com/ankitbuilds99/EraserOPS) |
+| Git for Research | Git-based workflow and tooling for research projects. | [Repo](https://github.com/ankitbuilds99/Git-for-research) |
+| Proxime | AI conversation and interaction platform. | [Repo](https://github.com/ankitbuilds99/Proxime) |
+| TigerGraph Agentic Fraud Investigation | Agentic fraud investigation powered by TigerGraph. | [Repo](https://github.com/ankitbuilds99/TigerGraph-Agentic-Fraud-Investigation-HHGOA) |
 
 ---
 
