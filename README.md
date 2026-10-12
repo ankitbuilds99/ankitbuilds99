@@ -1,89 +1,88 @@
 <div align="center">
 
-# Ankit Pandey
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=00D8FF&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Ankit+Pandey%2C+AI+Builder&duration=4000" alt="Typing SVG" />
 
-### AI Engineer · Full-Stack Developer · Cloud & Developer Tools
+### Computer Science · AI · Full-Stack · Cloud & Developer Tools
 
-Building practical AI systems, intelligent workflows, and reliable developer products.
-
-<p>
-  <a href="https://github.com/ankitbuilds99"><img src="https://img.shields.io/badge/GitHub-ankitbuilds99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ankitpandey5747906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=ankitbuilds99&style=flat-square&color=0A66C2" alt="Profile views" />
+<p align="center"><a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-ankit--pandey-0099FF?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/ankitbuilds99"><img src="https://img.shields.io/badge/GitHub-ankitbuilds99-00D8FF?style=for-the-badge&logo=github" /></a> <a href="mailto:ankitpandey5747906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFD21E?style=for-the-badge&logo=gmail&logoColor=black" /></a></p>
 
 </div>
 
 ---
 
-## Professional Focus
+## About Me
 
-I design and build end-to-end software that connects **AI, data, automation, and usable interfaces**. My work spans rapid prototyping through production-minded engineering: clear architecture, reliable APIs, containerized services, and thoughtful developer experience.
+- **AI Builder** → Practical AI products, automation, and intelligent workflows.
+- **Full-Stack Developer** → React / JavaScript on the front, Node.js and APIs on the back.
+- **Backend Engineer** → Clean services, integrations, databases, and developer tooling.
+- **Cloud & DevOps** → Docker, Linux, GitHub Actions, and reliable deployments.
+- **Currently** → Building, learning, and shipping in public.
 
-- **Applied AI** — RAG, LLM applications, multi-agent workflows, and AI-assisted automation
-- **Full-stack systems** — React, JavaScript, Node.js, Python, FastAPI, and REST APIs
-- **Cloud & DevOps** — Docker, Linux, GitHub Actions, deployment workflows, and observability
-- **Product engineering** — turning ideas into focused, usable, and maintainable products
+> I like building software that is useful, understandable, and reliable — less demo, more product.
 
-> I build software that is useful in practice, understandable to its users, and reliable enough to keep running.
+---
 
-## Selected Projects
+## Tech Stack & Tools
 
-| Project | What it demonstrates | Repository |
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,fastapi,postgres,docker,git,github,githubactions,vercel,linux,vscode" /></p>
+
+---
+
+## My GitHub Analytics
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitbuilds99&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbuilds99&layout=compact&theme=tokyonight&hide_border=true" height="165" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbuilds99&theme=tokyonight&hide_border=true" /></p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
 | --- | --- | :---: |
-| **Self-Improving Multi-Agent RAG System** | Retrieval-augmented generation with multi-agent improvement loops. | [View](https://github.com/ankitbuilds99/Self-Improving-Multi-Agent-RAG-System) |
-| **EraserOPS** | Operations-focused automation and engineering workflows. | [View](https://github.com/ankitbuilds99/EraserOPS) |
-| **Git for Research** | Practical Git workflows and research-oriented developer learning. | [View](https://github.com/ankitbuilds99/Git-for-research) |
-| **Proxime** | A focused product experience built around modern web development. | [View](https://github.com/ankitbuilds99/Proxime) |
-| **TigerGraph Agentic Fraud Investigation** | Graph-powered investigation with agentic reasoning for fraud analysis. | [View](https://github.com/ankitbuilds99/TigerGraph-Agentic-Fraud-Investigation-HHGOA) |
+| Self-Improving Multi-Agent RAG System | Self-improving multi-agent retrieval and generation system. | [Repo](https://github.com/ankitbuilds99/Self-Improving-Multi-Agent-RAG-System) |
+| EraserOPS | Agentic operations and incident-management tooling. | [Repo](https://github.com/ankitbuilds99/EraserOPS) |
+| Git for Research | Git-based workflow and tooling for research projects. | [Repo](https://github.com/ankitbuilds99/Git-for-research) |
+| Proxime | AI conversation and interaction platform. | [Repo](https://github.com/ankitbuilds99/Proxime) |
+| TigerGraph Agentic Fraud Investigation | Agentic fraud investigation powered by TigerGraph. | [Repo](https://github.com/ankitbuilds99/TigerGraph-Agentic-Fraud-Investigation-HHGOA) |
 
-## Technology Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,fastapi,postgres,redis,docker,git,githubactions,vercel,linux,vscode" alt="Python, Java, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub Actions, Vercel, Linux, VS Code" />
-</p>
+## My Contributions
 
-| Area | Tools & Concepts |
-| --- | --- |
-| **AI / Data** | LLM applications, RAG, embeddings, agents, evaluation, graph data |
-| **Backend** | Python, FastAPI, Node.js, REST APIs, PostgreSQL, Redis |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, responsive UI |
-| **Engineering** | Docker, Linux, GitHub Actions, Vercel, CI/CD |
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbuilds99&theme=tokyo-night&hide_border=true" alt="Contribution graph" /></p>
 
-## Engineering Principles
+---
 
-- Prefer simple architectures that are easy to explain and evolve.
-- Treat reliability, observability, and security as product features.
-- Validate ideas with working software, then improve the foundations.
-- Keep learning visible through projects, experiments, and documentation.
+## Terminal Mode
 
-## GitHub Activity
+whoami
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitbuilds99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbuilds99&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
+Ankit Pandey | AI Builder & Software Engineer
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbuilds99&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+pwd
 
-## Currently Exploring
+~/work/software-and-ai
 
-Agentic AI · RAG systems · Developer tooling · Cloud engineering · AI evaluation · Distributed systems
+ls
 
-## Let’s Connect
+AI/ · Full-Stack/ · Backend/ · Cloud/ · Developer-Tools/
 
-I’m open to collaboration on applied AI, full-stack products, developer tools, and challenging engineering problems.
+cat focus.txt
 
-- [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/)
-- [Email](mailto:ankitpandey5747906@gmail.com)
-- [GitHub](https://github.com/ankitbuilds99)
+Build useful products. Keep learning. Ship with intent.
+
+---
+
+## Let's Connect
+
+📧 [ankitpandey5747906@gmail.com](mailto:ankitpandey5747906@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/)
+
+🐙 [GitHub](https://github.com/ankitbuilds99)
 
 <div align="center">
 
-**Build with clarity. Ship with purpose. Improve continuously.**
+**Build useful things. Keep learning. Ship with intent.**
 
 </div>
