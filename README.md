@@ -4,7 +4,7 @@
 
 ### Computer Science · AI · Full-Stack · Cloud & Developer Tools
 
-<p align="center"><a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-ankit--pandey-0099FF?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/ankitbuilds99"><img src="https://img.shields.io/badge/GitHub-ankitbuilds99-00D8FF?style=for-the-badge&logo=github" /></a> <a href="mailto:ankitpandey5747906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFD21E?style=for-the-badge&logo=gmail&logoColor=black" /></a></p>
+<a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-ankit--pandey-0099FF?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/ankitbuilds99"><img src="https://img.shields.io/badge/GitHub-ankitbuilds99-00D8FF?style=for-the-badge&logo=github" /></a> <a href="mailto:ankitpandey5747906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFD21E?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
 </div>
 
@@ -16,7 +16,6 @@
 - **Full-Stack Developer** → React / JavaScript on the front, Node.js and APIs on the back.
 - **Backend Engineer** → Clean services, integrations, databases, and developer tooling.
 - **Cloud & DevOps** → Docker, Linux, GitHub Actions, and reliable deployments.
-- **Currently** → Building, learning, and shipping in public.
 
 > I like building software that is useful, understandable, and reliable — less demo, more product.
 
@@ -31,7 +30,6 @@
 ## My GitHub Analytics
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitbuilds99&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbuilds99&layout=compact&theme=tokyonight&hide_border=true" height="165" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbuilds99&theme=tokyonight&hide_border=true" /></p>
 
 ---
 
@@ -47,9 +45,15 @@
 
 ---
 
-## My Contributions
+## My Contributions — 3D View
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbuilds99&theme=tokyo-night&hide_border=true" alt="Contribution graph" /></p>
+<p align="center">
+  <a href="https://commitpulse.vercel.app/generator">
+    <img src="https://commitpulse.vercel.app/api/og?user=ankitbuilds99" alt="Ankit Pandey's 3D GitHub contribution visualization" />
+  </a>
+</p>
+
+*Live 3D visualization of my GitHub contribution activity.*
 
 ---
 
@@ -75,11 +79,7 @@ Build useful products. Keep learning. Ship with intent.
 
 ## Let's Connect
 
-📧 [ankitpandey5747906@gmail.com](mailto:ankitpandey5747906@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/)
-
-🐙 [GitHub](https://github.com/ankitbuilds99)
+📧 [ankitpandey5747906@gmail.com](mailto:ankitpandey5747906@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/) · 🐙 [GitHub](https://github.com/ankitbuilds99)
 
 <div align="center">
 
