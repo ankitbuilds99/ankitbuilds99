@@ -1,54 +1,107 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=00D8FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Ankit+Pandey%2C+AI+Builder&duration=4000" alt="Typing SVG" />
+</h1>
 
-# Hi, I'm Ankit Pandey 👋
-
-### AI Builder · Software Engineer · Creator of Intelligent Products
-
-I build practical AI systems, developer tools, and reliable software that turns ideas into useful products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-pandey-5a28b9379/)
-[![GitHub](https://img.shields.io/badge/GitHub-ankitbuilds99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitbuilds99)
-
-</div>
-
-## What I do
-
-- 🤖 Build AI-powered products and automation
-- 🛠️ Design clean full-stack systems and APIs
-- ☁️ Work with cloud, DevOps, and developer tooling
-- 🧠 Explore agents, RAG, and practical machine learning
-
-## Featured projects
-
-### [OmniPotent](https://github.com/ankitbuilds99/OmniPotent)
-AI copilot for DevOps workflows and automation.
-
-### [Portfolio](https://github.com/ankitbuilds99/Portfolio)
-My personal developer portfolio and project showcase.
-
-### [About-me](https://github.com/ankitbuilds99/About-me)
-A simple personal web profile built for the web.
-
-## Tech stack
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=Computer+Science+%7C+AI+%E2%80%A2+Full-Stack+%E2%80%A2+Cloud+%26+Developer+Tools" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,docker,git,github,linux" alt="Python, Java, JavaScript, HTML, CSS, React, Node.js, Docker, Git, GitHub, Linux" />
+  <a href="https://www.linkedin.com/in/ankit-pandey-5a28b9379/"><img src="https://img.shields.io/badge/LinkedIn-ankit--pandey-0099FF?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/ankitbuilds99"><img src="https://img.shields.io/badge/GitHub-ankitbuilds99-00D8FF?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:ankitpandey5747906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFD21E?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ankitbuilds99&style=for-the-badge&color=00D8FF" />
 </p>
 
-## Currently exploring
+---
 
-- Reliable AI agents and workflow automation
-- Backend architecture and scalable APIs
-- Better developer experience and open-source collaboration
+## About Me
 
-## Let's connect
 
-I'm open to collaborations around applied AI, software engineering, developer tools, and meaningful products.
+t
+dot text
+• AI Builder            → Practical AI products, automation, and intelligent workflows.
+• Full-Stack Developer  → React / JavaScript on the front, Node.js and APIs on the back.
+• Backend Engineer      → Clean services, integrations, databases, and developer tooling.
+• Cloud & DevOps        → Docker, Linux, GitHub Actions, and reliable deployments.
+• Currently             → Building, learning, and shipping in public.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/).
+t
+> I like building software that is useful, understandable, and reliable — less demo, more product.
 
-<div align="center">
+---
 
-*Build useful things. Keep learning. Ship with intent.*
+## Tech Stack & Tools
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,fastapi,postgres,docker,git,github,githubactions,vercel,linux,vscode" />
+</p>
+
+---
+
+## My GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitbuilds99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbuilds99&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbuilds99&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| OmniPotent | AI copilot for DevOps workflows and automation. | [Repo](https://github.com/ankitbuilds99/OmniPotent) |
+| Portfolio | Personal developer portfolio and project showcase. | [Repo](https://github.com/ankitbuilds99/Portfolio) |
+| About-me | Personal web profile and introduction. | [Repo](https://github.com/ankitbuilds99/About-me) |
+| JavaScript Learning | Practical JavaScript learning and experiments. | [Repo](https://github.com/ankitbuilds99/java-script.js) |
+| Ferris Wheel | CSS and frontend practice project. | [Repo](https://github.com/ankitbuilds99/ferris-wheel) |
+
+---
+
+## My Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitbuilds99&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## Terminal Mode
+
+
+t
+dot text
+> whoami
+Ankit Pandey | AI Builder & Software Engineer
+
+> pwd
+~/work/software-and-ai
+
+> ls
+AI/
+Full-Stack/
+Backend/
+Cloud/
+Developer-Tools/
+
+> cat focus.txt
+Build useful products.
+Keep learning.
+Ship with intent.
+
+t
+---
+
+## Let's Connect
+
+📧 [ankitpandey5747906@gmail.com](mailto:ankitpandey5747906@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ankit-pandey-5a28b9379/)  
+🐙 [GitHub](https://github.com/ankitbuilds99)
+
+<p align="center"><i>Build useful things. Keep learning. Ship with intent.</i></p>
